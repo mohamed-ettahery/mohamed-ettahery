@@ -3,5 +3,5 @@
                  ✨ Favorite Tech: Php , JavaScript , c# ...
 
                  📧 ettaherymohamed.dev@gmail.com
-                 🔗 linkedin : <a href="https://www.linkedin.com/in/mohamed-ettahery-56a14b219/">https://www.linkedin.com/in/mohamed-ettahery-56a14b219/</a>
+                 🔗 linkedin : https://www.linkedin.com/in/mohamed-ettahery-56a14b219/
                  🐦 Twitter  : https://twitter.com/EttaheryMedev
